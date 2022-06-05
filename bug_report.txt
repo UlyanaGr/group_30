@@ -1,0 +1,15 @@
+The user photo in not displayed in the table "Notes"
+
+Steps to reproduce:
+1. Log in to the organization 
+2. Go to Account > Profile
+3. Upload a Photo
+4. Go to the Notes page
+5. Add a Note 
+
+Expected Result:
+If a user has uploaded a photo to his account, his user icon should be displayed with that photo.
+
+Actual Result:
+The user icon is displayed with the initials BUT without the photo.
+
